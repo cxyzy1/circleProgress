@@ -1,4 +1,4 @@
-package com.cxyzy.library
+package com.cxyzy.lib.ui.circelProgress
 
 import android.animation.ValueAnimator
 import android.content.Context
@@ -7,6 +7,7 @@ import android.text.TextPaint
 import android.util.AttributeSet
 import android.view.View
 import androidx.core.content.ContextCompat
+import com.cxyzy.lib.ui.circleProgress.R
 import kotlin.math.abs
 
 class CircleProgress(context: Context, attrs: AttributeSet) : View(context, attrs) {

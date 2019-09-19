@@ -22,7 +22,7 @@
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
-        <com.cxyzy.library.CircleProgress
+        <com.cxyzy.lib.ui.circelProgress.CircleProgress
             android:id="@+id/circleProgress"
             android:layout_width="100dp"
             android:layout_height="100dp"
